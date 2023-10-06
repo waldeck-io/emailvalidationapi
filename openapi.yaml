@@ -5,7 +5,9 @@ info:
   contact:
     name: Dimitri van Hees
     email: dimitri@jumpventures.nl
-    url: https://emailvalidationapi.com
+    url: https://www.emailvalidationapi.com
+servers:
+  - url: https://api.emailvalidationapi.com/v1
 paths:
   /validate:
     post:
